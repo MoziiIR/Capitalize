@@ -1,0 +1,5 @@
+Before CAP~~~> HAj 26811 56 MohSen
+
+After CAP~~~> haj 26811 56 mohsen
+Sum of numbers ~~~> 29
+
